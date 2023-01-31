@@ -3,7 +3,8 @@
 # This program takes an array and finds the low index, high index, and sum of a subarray.
 # The array is hardcoded and shows an example using values from our textbook and an array
 # of random values created by the program
-
+#
+#
 
 import numpy as np
 import random
